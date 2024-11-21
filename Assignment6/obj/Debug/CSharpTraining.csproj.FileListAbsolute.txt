@@ -1,0 +1,7 @@
+E:\CSharpTraining\Assignments\Assignment6\bin\Debug\Assignment6.exe.config
+E:\CSharpTraining\Assignments\Assignment6\bin\Debug\Assignment6.exe
+E:\CSharpTraining\Assignments\Assignment6\bin\Debug\Assignment6.pdb
+E:\CSharpTraining\Assignments\Assignment6\obj\Debug\CSharpTraining.csproj.AssemblyReference.cache
+E:\CSharpTraining\Assignments\Assignment6\obj\Debug\CSharpTraining.csproj.CoreCompileInputs.cache
+E:\CSharpTraining\Assignments\Assignment6\obj\Debug\Assignment6.exe
+E:\CSharpTraining\Assignments\Assignment6\obj\Debug\Assignment6.pdb
